@@ -1,0 +1,24 @@
+# D / Dub
+.dub/
+docs/
+*.exe
+*.o
+*.obj
+*.lib
+*.a
+*.dll
+*.so
+*.dylib
+__*
+*.lst
+*.json
+dub.selections.json
+
+# IDE / VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# OS
+Thumbs.db
+.DS_Store
