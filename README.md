@@ -1,6 +1,6 @@
 # Dlang GUI Samples
 
-A collection of sample "Hello World" projects for various D language GUI toolkits, organized into Wrappers and Native libraries.
+A collection of sample "Hello World" projects for various D language GUI toolkits, organized into Wrappers and Native libraries. List taken from <https://wiki.dlang.org/GUI_Libraries>.
 
 ## Repository Structure
 
