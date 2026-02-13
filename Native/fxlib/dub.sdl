@@ -1,0 +1,2 @@
+name "fxlib-sample"
+dependency "fxlib" version="*"

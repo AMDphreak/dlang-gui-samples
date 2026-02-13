@@ -1,0 +1,2 @@
+name "dfl-rayerd-sample"
+dependency "dfl-rayerd" version="*"

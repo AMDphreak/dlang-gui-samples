@@ -1,0 +1,2 @@
+name "dfl2-sample"
+dependency "dfl2" version="*"
