@@ -1,0 +1,4 @@
+name "dqml-sample"
+description "A simple dqml sample"
+dependency "dqml" version="~>0.6.1"
+targetType "executable"

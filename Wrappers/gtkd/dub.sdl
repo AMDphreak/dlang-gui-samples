@@ -1,0 +1,4 @@
+name "gtkd-sample"
+description "A simple GtkD sample"
+dependency "gtkd" version="~>3.10.0"
+targetType "executable"

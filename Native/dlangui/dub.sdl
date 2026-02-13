@@ -1,0 +1,4 @@
+name "dlangui-sample"
+description "A simple DlangUI sample"
+dependency "dlangui" version="~>0.10.8"
+targetType "executable"

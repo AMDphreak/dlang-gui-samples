@@ -1,0 +1,4 @@
+name "libuid-sample"
+description "A simple libui-d sample"
+dependency "libuid" version="~>0.2.0"
+targetType "executable"

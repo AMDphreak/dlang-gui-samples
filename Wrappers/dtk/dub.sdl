@@ -1,0 +1,4 @@
+name "dtk-sample"
+description "A simple dtk sample"
+dependency "dtk" version="~>0.1.0"
+targetType "executable"

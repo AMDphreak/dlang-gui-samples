@@ -1,0 +1,5 @@
+name "dfl-sample"
+description "A simple DFL sample"
+dependency "dfl" version="~>0.16.3"
+targetType "executable"
+platforms "windows"

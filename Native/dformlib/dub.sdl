@@ -1,0 +1,5 @@
+name "dformlib-sample"
+description "A simple dformlib sample"
+dependency "dformlib" version="~>0.2.2"
+targetType "executable"
+platforms "windows"

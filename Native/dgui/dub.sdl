@@ -1,0 +1,5 @@
+name "dgui-sample"
+description "A simple DGui sample"
+dependency "dgui" version="~>1.0.1"
+targetType "executable"
+platforms "windows"

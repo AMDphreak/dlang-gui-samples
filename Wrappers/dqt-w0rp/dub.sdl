@@ -1,0 +1,4 @@
+name "dqt-sample"
+description "A simple dqt sample"
+dependency "dqt" version="~>6.4.2"
+targetType "executable"
